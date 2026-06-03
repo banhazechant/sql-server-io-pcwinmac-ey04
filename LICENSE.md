@@ -1,4 +1,4 @@
-# 
+# Automatique SQL Server Management Studio préréglages pour Mac OS | Top SQL Server Management Studio préréglages pour PC Windows. Avec débogage SQL et vue blame — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
